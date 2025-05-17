@@ -1,0 +1,9 @@
+filterpy==1.4.5
+lap==0.5.12
+matplotlib==3.10.3
+numpy==2.2.5
+opencv_python==4.11.0.86
+scipy==1.15.3
+skimage==0.0
+torch==2.7.0
+ultralytics==8.3.130
