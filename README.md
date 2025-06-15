@@ -54,7 +54,6 @@ CV_project1_stopped_vehicles/
 ├── Reading_videos.py          # Video reading and preprocessing
 ├── CUDA_setup_testing.ipynb   # Notebook for CUDA setup verification
 ├── requirements.txt           # Python dependencies
-├── LICENSE
 └── .gitignore
 ```
 
