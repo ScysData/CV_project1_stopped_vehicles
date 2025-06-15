@@ -1,7 +1,7 @@
 
 # Stopped Vehicle Detection \& Counting
 
-*A Computer Vision Portfolio Project by **Samson Chan** *
+**A Computer Vision Portfolio Project by** **_Samson Chan_**
 
 ---
 
