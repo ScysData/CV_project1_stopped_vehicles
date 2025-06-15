@@ -18,6 +18,15 @@ This project demonstrates my ability to apply deep learning and computer vision 
 - **Stopped Vehicle Counting:** Identifies and counts vehicles that have stopped in the frame.
 
 ---
+## Quick Demo
+
+
+
+https://github.com/user-attachments/assets/c6d68144-2409-433e-ab87-59229e049348
+
+
+---
+
 
 ## Potential Business Use Cases:
 
